@@ -1,5 +1,9 @@
 # The WLShear package
 
+This package is, for now, a placeholder repo to hold issues releated to shear measurement for DESC. 
+It may one day become an actual location for code.
+
+
 ## Set-up and testing
 From bash
 ```
